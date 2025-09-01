@@ -1,5 +1,7 @@
+package com.mycompany.basiccalculatorjavaprogram;
+
 import java.util.Scanner;
-public class Main
+public class MinValueinCustomArray
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
